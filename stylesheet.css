@@ -1,0 +1,35 @@
+body {
+	background: #005377;
+}
+
+.jumbotron {
+	background: #33658A;
+	color: #F6AE2D;
+}
+
+/*h1 {
+	font-size: 120px;
+}
+*/
+img {
+	padding: 10px;
+	border-radius: 20px
+}
+
+.card-body {
+	width: 960px;
+	padding-left: 10px;
+	padding-right: 5px;
+	font-family: roboto;
+}
+
+.boxy {
+	border: 1px solid #888888;
+	border-radius: 20px;
+	width: 960px;
+	background: #86BBD8
+}
+
+p {
+	font-size: 24px;
+}
